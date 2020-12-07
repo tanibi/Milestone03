@@ -6,4 +6,3 @@
 - Erriel Tota
 - Thomas Tran
 
-## Presentation Link
